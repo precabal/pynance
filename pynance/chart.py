@@ -38,7 +38,7 @@ Examples
 import datetime as dt
 
 import matplotlib.dates as mdates
-import matplotlib.finance as fplt
+import mpl_finance as fplt
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 

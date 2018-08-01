@@ -13,7 +13,7 @@ Dependencies
 ---
 Tested on:
 * [Python](https://www.python.org/) 2.7.8, 2.7.11, 3.4.2, 3.5.1
-* [matplotlib](http://matplotlib.org/index.html) 1.4.2, 1.4.3, 1.5.1
+* [matplotlib](http://matplotlib.org/index.html) 2.2.2
 * [NumPy](http://www.numpy.org/) 1.9.0, 1.9.2, 1.10.4
 * [Pandas](http://pandas.pydata.org/) 0.14.1, 0.15.1, 0.16.0, 0.17.1
 * [pandas-datareader](https://github.com/pydata/pandas-datareader) 0.1.1, 0.2.1
